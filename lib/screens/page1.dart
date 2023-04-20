@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'package:getx_project/screens/page2.dart';
 
 class Page1 extends StatefulWidget {
-  Page1({
+  const Page1({
     super.key,
   });
 
